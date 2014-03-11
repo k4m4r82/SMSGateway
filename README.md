@@ -1,4 +1,4 @@
-<h1>Petunjuk Penggunaan Source Code</h1>
+<h2>Petunjuk Penggunaan Source Code</h2>
 
 1. Jalankan file install.cmd yg ada di folder "dll"
 2. Download SQLite Manager di http://www.sqliteexpert.com/SQLiteExpertPersSetup.exe
